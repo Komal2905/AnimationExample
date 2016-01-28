@@ -15,6 +15,11 @@
 		0A5AC1321C3E10F5004F013B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC1301C3E10F5004F013B /* LaunchScreen.storyboard */; };
 		0A5AC13D1C3E10F5004F013B /* AnimationExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5AC13C1C3E10F5004F013B /* AnimationExampleTests.swift */; };
 		0A5AC1481C3E10F5004F013B /* AnimationExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5AC1471C3E10F5004F013B /* AnimationExampleUITests.swift */; };
+		0A5AC1561C3E334C004F013B /* fish.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC1551C3E334C004F013B /* fish.jpg */; };
+		0A5AC1581C3E35FA004F013B /* ocean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC1571C3E35FA004F013B /* ocean.jpg */; };
+		0A5AC15A1C3E39F9004F013B /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC1591C3E39F9004F013B /* images.jpg */; };
+		0A5AC15C1C3E4295004F013B /* shark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC15B1C3E4295004F013B /* shark.jpg */; };
+		0A5AC15E1C3E4689004F013B /* sharkRotate.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A5AC15D1C3E4689004F013B /* sharkRotate.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +54,11 @@
 		0A5AC1431C3E10F5004F013B /* AnimationExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A5AC1471C3E10F5004F013B /* AnimationExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExampleUITests.swift; sourceTree = "<group>"; };
 		0A5AC1491C3E10F5004F013B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A5AC1551C3E334C004F013B /* fish.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fish.jpg; path = ../../../../../Downloads/fish.jpg; sourceTree = "<group>"; };
+		0A5AC1571C3E35FA004F013B /* ocean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ocean.jpg; path = ../../../../../Downloads/ocean.jpg; sourceTree = "<group>"; };
+		0A5AC1591C3E39F9004F013B /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpg; path = ../../../../../Downloads/images.jpg; sourceTree = "<group>"; };
+		0A5AC15B1C3E4295004F013B /* shark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = shark.jpg; path = ../../../../../Downloads/shark.jpg; sourceTree = "<group>"; };
+		0A5AC15D1C3E4689004F013B /* sharkRotate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sharkRotate.png; path = ../../../../../Downloads/sharkRotate.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +110,11 @@
 			isa = PBXGroup;
 			children = (
 				0A5AC1241C3E10F5004F013B /* AppDelegate.swift */,
+				0A5AC1551C3E334C004F013B /* fish.jpg */,
+				0A5AC1571C3E35FA004F013B /* ocean.jpg */,
+				0A5AC1591C3E39F9004F013B /* images.jpg */,
+				0A5AC15B1C3E4295004F013B /* shark.jpg */,
+				0A5AC15D1C3E4689004F013B /* sharkRotate.png */,
 				0A5AC1261C3E10F5004F013B /* ViewController.swift */,
 				0A5AC1281C3E10F5004F013B /* Main.storyboard */,
 				0A5AC12E1C3E10F5004F013B /* Assets.xcassets */,
@@ -233,8 +248,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A5AC1321C3E10F5004F013B /* LaunchScreen.storyboard in Resources */,
+				0A5AC1561C3E334C004F013B /* fish.jpg in Resources */,
+				0A5AC15E1C3E4689004F013B /* sharkRotate.png in Resources */,
+				0A5AC1581C3E35FA004F013B /* ocean.jpg in Resources */,
 				0A5AC12F1C3E10F5004F013B /* Assets.xcassets in Resources */,
 				0A5AC12A1C3E10F5004F013B /* Main.storyboard in Resources */,
+				0A5AC15A1C3E39F9004F013B /* images.jpg in Resources */,
+				0A5AC15C1C3E4295004F013B /* shark.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
